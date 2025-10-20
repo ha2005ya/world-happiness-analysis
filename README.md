@@ -44,11 +44,3 @@ Through **Exploratory Data Analysis (EDA)**, I aimed to understand how indicator
 - Found strong correlations between **GDP per capita**, **social support**, and **happiness score**.  
 - Created **heatmaps**, **bar charts**, and **pair plots** to explore relationships.
 
----
-
-## 🖼️ Sample Visuals
-(Add images here after uploading them, for example:)
-
-```markdown
-![Top 10 Happiest Countries](images/top10.png)
-![Correlation Heatmap](images/heatmap.png)
